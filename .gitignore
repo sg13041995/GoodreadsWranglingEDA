@@ -1,2 +1,3 @@
-/1_DataSource/
-/3_ProcessedData/
+/1_Source/*.csv
+/1_Source/*.gz
+/3_Cleaned_Transformed/
