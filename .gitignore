@@ -1,3 +1,3 @@
-/Source/*.csv
-/Source/*.gz
+/Datasets/*.csv
+/Datasets/*.gz
 /Cleaned_Transformed/
